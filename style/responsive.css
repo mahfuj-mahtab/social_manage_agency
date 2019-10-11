@@ -1,0 +1,758 @@
+@media only screen and (min-width: 360px) and (max-width: 412px) {
+    .bar{
+        display: block;
+        background-color:#487EB0;
+        color: white;
+    }
+    .header{
+        width: 100%;
+        height: 220px;
+    }
+    .header1{
+        width: 100%;
+        height: 220px;
+        line-height: 200px;
+    }
+    .left_header1{
+        width: 100%;
+        height: 70px;
+        line-height: 70px;
+        float: none;
+        border-bottom: 1px solid white;
+    }
+    .right_header1{
+        width: 100%;
+        height: 150px;
+        line-height: 150px;
+        float: none;
+        font-size: 12px;
+    }
+    #header_section1{
+       width: 100%;
+        height: 50px;
+        line-height: 50px;
+        float: left;
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    #header_section1 ul li{
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        border-bottom: 1px solid white;
+
+    }
+    #header_section1 span{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section1 a{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section2{
+       width: 100%;
+        height: 50px;
+        line-height: 50px;
+        float: left;
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    #header_section2 ul li{
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        border-bottom: 1px solid white;
+
+    }
+    #header_section2 span{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section2 a{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+        #header_section3{
+       width: 100%;
+        height: 50px;
+        line-height: 50px;
+        float: left;
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    #header_section3 ul li{
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        border-bottom: 1px solid white;
+    }
+    #header_section3 span{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section3 ul li ul{
+        width: 60%;
+        margin: 0 auto;
+        margin-left: 110px;
+    }
+    #header_section3 ul li ul li{
+        width: 15%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+        float: left;
+    }
+    .header2{
+        width: 100%;
+        height: 250px;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+        top: -210px;
+        z-index: 10;
+    }
+    .left_header2{
+        width: 100%;
+        height: 250px;
+        margin: 0px;
+    }
+    .left_header2 ul{
+        width: 50%;
+        margin: 0 auto;
+    }
+    
+    
+    .right_header2{
+        display: none;
+        width: 0px;
+        height: 0px;
+    }
+    
+    .banner{
+        width: 100%;
+        height: 1150px;
+        margin-top: 50px;
+    }
+    .bannerh1{
+        top: 10px;
+        left: 0px;
+        right: 0px;
+        width: 100%;
+        height: 150px;
+    }
+    .bannerp{
+        top: 170px;
+        left: 35px;
+    }
+    .bannercontact{
+        top: 300px;
+        left: 10px;
+    }
+    .bannerlearn{
+        top: 370px;
+        left: 10px;
+    }
+    
+    .left_banner{
+        width: 100%;
+        height: 450px;
+        float: left;
+    }
+    .right_banner{
+        width: 100%;
+        height: 300px;
+        float: left;
+        top: 450px;
+        
+    }
+    .bannerimg{
+        margin-top: 0px;
+        height: 300px;
+        line-height: 300px;
+        width: 270px;
+        overflow: hidden;
+    }
+    
+    .about_section{
+        margin-top: 100px;
+        width: 100%;
+        height: 1000px;
+    }
+    .leftaboutsection{
+        width: 100%;
+        height: 500px;
+        text-align: center;
+        
+        
+    }
+    .leftaboutsectionh2{
+        text-align: center;
+    }
+    .leftaboutsectionp{
+        left: 10px;
+        right: 10px;
+        font-size: 12px;
+    }
+    
+    .rightaboutsection{
+        width: 100%;
+        height: 500px;
+        background-color: red;
+        top: 500px;
+        
+    }
+    .service{
+        width: 100%;
+        height: 1500px;
+    }
+
+    .service1{
+        width: 100%;
+        height: 500px;
+        
+    }
+    .service1h1{
+        width: 100%;
+        height: 70px;
+    }
+    .service1p{
+        width: 95%;
+        font-size: 12px;
+        height: 150px;
+        
+    }
+    .service1a1{
+        margin-top: 0px;
+        margin-left: 70px;
+    }
+    
+    
+    .service2{
+        width: 100%;
+        height: 500px;
+    }
+    
+    .service2h1{
+        width: 100%;
+        height: 70px;
+        font-size: 27px;
+        
+    }
+    .service2a1{
+        margin-left: 70px;
+    }
+    
+    .service3{
+        width: 100%;
+        height: 500px;
+    }
+     .service3a1{
+        margin-left: 70px;
+    }
+    
+    .memberandcontact{
+        width: 100%;
+        height: 2200px;
+    }
+    
+    .left_memberandcontact{
+        width: 100%;
+        height: 1100px;
+    }
+    .right_memberandcontact{
+        top: 1100px;
+    }
+    
+    .team{
+        width: 100%;
+        
+    }
+    
+    .member{
+        width: 100%;
+        height: 500px;
+        margin-left: 0px;
+    }
+    
+    .allmember{
+        width: 100%;
+        height: 50px;
+        margin-top: 550px;
+    }
+    
+    .right_memberandcontact{
+        width: 100%;
+        top: 1200px;
+    }
+    
+    .contact{
+        width: 100%;
+        height: 900px;
+        
+    }
+    
+    .contacth2{
+        width: 100%;
+        height: 100px;
+        font-size: 15px;
+    }
+    .row{
+        width: 100%;
+        float: none;
+    }
+    
+    .msg{
+        width: 100%;
+        margin-top: 10px;
+    
+    }
+    .contact_submit{
+        width: 100%;
+    }
+    
+    textarea{
+        width: 300px;
+    }
+    .newsletter{
+        width: 100%;
+        height: 400px;
+    }
+    .newsletterh1{
+        width: 100%;
+        left: 0%;
+        font-size: 22px;
+        text-align: center;
+    }
+    
+    .newsletterinput{
+        left: 5%;
+        width: 300px;
+    }
+    
+    .newslettersubmit{
+        left: 30%;
+        top: 230px;
+    }
+    
+    .footer{
+        width: 100%;
+    }
+    
+    .footer1{
+        width: 100%;
+    }
+    
+    .footer2{
+        width: 100%;
+    }
+    .footer2h1{
+        font-size: 22px;
+        margin-left: 30px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 360px) {
+    .bar{
+        display: block;
+        background-color:#487EB0;
+        color: white;
+    }
+    .header{
+        width: 100%;
+        height: 220px;
+    }
+    .header1{
+        width: 100%;
+        height: 220px;
+        line-height: 200px;
+    }
+    .left_header1{
+        width: 100%;
+        height: 70px;
+        line-height: 70px;
+        float: none;
+        border-bottom: 1px solid white;
+    }
+    .right_header1{
+        width: 100%;
+        height: 150px;
+        line-height: 150px;
+        float: none;
+        font-size: 12px;
+    }
+    #header_section1{
+       width: 100%;
+        height: 50px;
+        line-height: 50px;
+        float: left;
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    #header_section1 ul li{
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        border-bottom: 1px solid white;
+
+    }
+    #header_section1 span{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section1 a{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section2{
+       width: 100%;
+        height: 50px;
+        line-height: 50px;
+        float: left;
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    #header_section2 ul li{
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        border-bottom: 1px solid white;
+
+    }
+    #header_section2 span{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section2 a{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+        #header_section3{
+       width: 100%;
+        height: 50px;
+        line-height: 50px;
+        float: left;
+        font-size: 12px;
+        text-align: center;
+    }
+    
+    #header_section3 ul li{
+        width: 100%;
+        height: 50px;
+        line-height: 50px;
+        border-bottom: 1px solid white;
+    }
+    #header_section3 span{
+        width: 100%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+    }
+    #header_section3 ul li ul{
+        width: 60%;
+        margin: 0 auto;
+        margin-left: 110px;
+    }
+    #header_section3 ul li ul li{
+        width: 15%;
+        height: 25px;
+        line-height: 25px;
+        margin: 0px;
+        float: left;
+    }
+    .header2{
+        width: 100%;
+        height: 250px;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+        position: relative;
+        top: -210px;
+        z-index: 10;
+    }
+    .left_header2{
+        width: 100%;
+        height: 250px;
+        margin: 0px;
+    }
+    .left_header2 ul{
+        width: 50%;
+        margin: 0 auto;
+    }
+    
+    
+    .right_header2{
+        display: none;
+        width: 0px;
+        height: 0px;
+    }
+    
+    .banner{
+        width: 100%;
+        height: 1150px;
+        margin-top: 50px;
+    }
+    .bannerh1{
+        top: 10px;
+        left: 0px;
+        right: 0px;
+        width: 100%;
+        height: 150px;
+    }
+    .bannerp{
+        top: 170px;
+        left: 35px;
+    }
+    .bannercontact{
+        top: 300px;
+        left: 10px;
+    }
+    .bannerlearn{
+        top: 370px;
+        left: 10px;
+    }
+    
+    .left_banner{
+        width: 100%;
+        height: 450px;
+        float: left;
+    }
+    .right_banner{
+        width: 100%;
+        height: 300px;
+        float: left;
+        top: 450px;
+        
+    }
+    .bannerimg{
+        margin-top: 0px;
+        height: 300px;
+        line-height: 300px;
+        width: 270px;
+        overflow: hidden;
+    }
+    
+    .about_section{
+        margin-top: 100px;
+        width: 100%;
+        height: 1000px;
+    }
+    .leftaboutsection{
+        width: 100%;
+        height: 500px;
+        text-align: center;
+        
+        
+    }
+    .leftaboutsectionh2{
+        text-align: center;
+    }
+    .leftaboutsectionp{
+        left: 10px;
+        right: 10px;
+        font-size: 12px;
+    }
+    
+    .rightaboutsection{
+        width: 100%;
+        height: 500px;
+        background-color: red;
+        top: 500px;
+        
+    }
+    .service{
+        width: 100%;
+        height: 1500px;
+    }
+
+    .service1{
+        width: 100%;
+        height: 500px;
+        
+    }
+    .service1h1{
+        width: 100%;
+        height: 70px;
+    }
+    .service1p{
+        width: 95%;
+        font-size: 12px;
+        height: 150px;
+        
+    }
+    .service1a1{
+        margin-top: 0px;
+        margin-left: 70px;
+    }
+    
+    
+    .service2{
+        width: 100%;
+        height: 500px;
+    }
+    
+    .service2h1{
+        width: 100%;
+        height: 70px;
+        font-size: 27px;
+        
+    }
+    .service2a1{
+        margin-left: 70px;
+    }
+    
+    .service3{
+        width: 100%;
+        height: 500px;
+    }
+     .service3a1{
+        margin-left: 70px;
+    }
+    
+    .memberandcontact{
+        width: 100%;
+        height: 2200px;
+    }
+    
+    .left_memberandcontact{
+        width: 100%;
+        height: 1100px;
+    }
+    .right_memberandcontact{
+        top: 1100px;
+    }
+    
+    .team{
+        width: 100%;
+        
+    }
+    
+    .member{
+        width: 100%;
+        height: 500px;
+        margin-left: 0px;
+    }
+    
+    .allmember{
+        width: 100%;
+        height: 50px;
+        margin-top: 550px;
+    }
+    
+    .right_memberandcontact{
+        width: 100%;
+        top: 1200px;
+    }
+    
+    .contact{
+        width: 100%;
+        height: 900px;
+        
+    }
+    
+    .contacth2{
+        width: 100%;
+        height: 100px;
+        font-size: 15px;
+    }
+    .row{
+        width: 100%;
+        float: none;
+    }
+    
+    .msg{
+        width: 100%;
+        margin-top: 10px;
+    
+    }
+    .contact_submit{
+        width: 100%;
+    }
+    
+    textarea{
+        width: 270px;
+    }
+    .newsletter{
+        width: 100%;
+        height: 400px;
+    }
+    .newsletterh1{
+        width: 100%;
+        left: 0%;
+        font-size: 22px;
+        text-align: center;
+    }
+    
+    .newsletterinput{
+        left: 5%;
+        width: 270px;
+    }
+    
+    .newslettersubmit{
+        left: 30%;
+        top: 230px;
+    }
+    
+    .footer{
+        width: 100%;
+    }
+    
+    .footer1{
+        width: 100%;
+    }
+    
+    .footer2{
+        width: 100%;
+    }
+    .footer2h1{
+        font-size: 19px;
+        margin-left: 30px;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
